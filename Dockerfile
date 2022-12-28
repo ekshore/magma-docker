@@ -1,6 +1,6 @@
 FROM fedora:latest
 
-ENV MODPACK_URL https://mediafilez.forgecdn.net/files/3997/226/Medieval+MC+Server+Pack+FORGE+1.18.2+v14.5.zip
+ENV MODPACK_URL <URL destination for modpack of choice>
 ENV MAGMA_URL https://git.magmafoundation.org/api/v4/projects/5/packages/maven/org/magmafoundation/Magma/1.18.2-40.1.92-f79b38cf/Magma-1.18.2-40.1.92-f79b38cf-server.jar
 
 # Install dependencies
